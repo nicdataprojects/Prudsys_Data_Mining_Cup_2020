@@ -11,8 +11,8 @@ To structure the workload of our contribution, we were creating a pipeline for t
 
 ## Members of our group
 
-- Kyrillus Aiad
 - Nicolas Bauer
+- Kyrillus Aiad
 - Markus Böbel
 - Karin Frlic
 - Michael Hauer
